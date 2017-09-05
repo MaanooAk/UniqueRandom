@@ -2,22 +2,22 @@
 
 Generate random non-repeating integers from a specified range in O(1) space.
 
-# Features
+## Features
 
-## Complexity
+### Complexity
 
 - **O(1)** space
 - **O(1)** time (amortized)
 
-## Single file
+### Single file
 
 UniqueRandom is single Java file, it is suggested to copy the source code into your project instead of adding a jar dependency.
 
-# Status
+## Status
 
 Testing
 
-# License
+## License
 
 All files in this repository are Copyright (c) 2017 UniqueRandom author list.
 
